@@ -1,0 +1,259 @@
+[2025-06-12 21:33:35] 
+=== Running Strategy Engine ===
+[2025-06-12 21:33:35] [INFO] Checking signal for AAPL
+[2025-06-12 21:33:35] [EMA] Checking AAPL...
+[2025-06-12 21:33:35] [INFO] No signal for AAPL
+[2025-06-12 21:33:35] [INFO] Checking signal for TSLA
+[2025-06-12 21:33:35] [EMA] Checking TSLA...
+[2025-06-12 21:33:35] [INFO] No signal for TSLA
+[2025-06-12 21:33:35] [INFO] Checking signal for MSFT
+[2025-06-12 21:33:35] [INFO] No signal for MSFT
+[2025-06-12 21:33:35] [INFO] Checking signal for NVDA
+[2025-06-12 21:33:35] [INFO] No signal for NVDA
+[2025-06-12 21:33:35] [INFO] Checking signal for GOOGL
+[2025-06-12 21:33:35] [INFO] No signal for GOOGL
+[2025-06-12 21:33:35] 
+[WAIT] Sleeping for 5 minutes...
+
+[2025-06-12 21:38:35] 
+=== Running Strategy Engine ===
+[2025-06-12 21:38:35] [INFO] Checking signal for AAPL
+[2025-06-12 21:38:35] [EMA] Checking AAPL...
+[2025-06-12 21:38:35] [INFO] No signal for AAPL
+[2025-06-12 21:38:35] [INFO] Checking signal for TSLA
+[2025-06-12 21:38:35] [EMA] Checking TSLA...
+[2025-06-12 21:38:36] [INFO] No signal for TSLA
+[2025-06-12 21:38:36] [INFO] Checking signal for MSFT
+[2025-06-12 21:38:36] [INFO] No signal for MSFT
+[2025-06-12 21:38:36] [INFO] Checking signal for NVDA
+[2025-06-12 21:38:36] [INFO] No signal for NVDA
+[2025-06-12 21:38:36] [INFO] Checking signal for GOOGL
+[2025-06-12 21:38:36] [INFO] No signal for GOOGL
+[2025-06-12 21:38:36] 
+[WAIT] Sleeping for 5 minutes...
+
+[2025-06-12 21:43:36] 
+=== Running Strategy Engine ===
+[2025-06-12 21:43:36] [INFO] Checking signal for AAPL
+[2025-06-12 21:43:36] [EMA] Checking AAPL...
+[2025-06-12 21:43:36] [INFO] No signal for AAPL
+[2025-06-12 21:43:36] [INFO] Checking signal for TSLA
+[2025-06-12 21:43:36] [EMA] Checking TSLA...
+[2025-06-12 21:43:36] [INFO] No signal for TSLA
+[2025-06-12 21:43:36] [INFO] Checking signal for MSFT
+[2025-06-12 21:43:36] [INFO] No signal for MSFT
+[2025-06-12 21:43:36] [INFO] Checking signal for NVDA
+[2025-06-12 21:43:36] [INFO] No signal for NVDA
+[2025-06-12 21:43:36] [INFO] Checking signal for GOOGL
+[2025-06-12 21:43:36] [INFO] No signal for GOOGL
+[2025-06-12 21:43:36] 
+[WAIT] Sleeping for 5 minutes...
+
+[2025-06-12 21:48:36] 
+=== Running Strategy Engine ===
+[2025-06-12 21:48:36] [INFO] Checking signal for AAPL
+[2025-06-12 21:48:36] [EMA] Checking AAPL...
+[2025-06-12 21:48:36] [INFO] No signal for AAPL
+[2025-06-12 21:48:36] [INFO] Checking signal for TSLA
+[2025-06-12 21:48:36] [EMA] Checking TSLA...
+[2025-06-12 21:48:36] [INFO] No signal for TSLA
+[2025-06-12 21:48:36] [INFO] Checking signal for MSFT
+[2025-06-12 21:48:36] [INFO] No signal for MSFT
+[2025-06-12 21:48:36] [INFO] Checking signal for NVDA
+[2025-06-12 21:48:36] [INFO] No signal for NVDA
+[2025-06-12 21:48:36] [INFO] Checking signal for GOOGL
+[2025-06-12 21:48:36] [INFO] No signal for GOOGL
+[2025-06-12 21:48:36] 
+[WAIT] Sleeping for 5 minutes...
+
+[2025-06-12 21:53:36] 
+=== Running Strategy Engine ===
+[2025-06-12 21:53:36] [INFO] Checking signal for AAPL
+[2025-06-12 21:53:36] [EMA] Checking AAPL...
+[2025-06-12 21:53:37] [INFO] No signal for AAPL
+[2025-06-12 21:53:37] [INFO] Checking signal for TSLA
+[2025-06-12 21:53:37] [EMA] Checking TSLA...
+[2025-06-12 21:53:37] [INFO] No signal for TSLA
+[2025-06-12 21:53:37] [INFO] Checking signal for MSFT
+[2025-06-12 21:53:37] [INFO] No signal for MSFT
+[2025-06-12 21:53:37] [INFO] Checking signal for NVDA
+[2025-06-12 21:53:37] [INFO] No signal for NVDA
+[2025-06-12 21:53:37] [INFO] Checking signal for GOOGL
+[2025-06-12 21:53:37] [INFO] No signal for GOOGL
+[2025-06-12 21:53:37] 
+[WAIT] Sleeping for 5 minutes...
+
+[2025-06-12 21:58:37] 
+=== Running Strategy Engine ===
+[2025-06-12 21:58:37] [INFO] Checking signal for AAPL
+[2025-06-12 21:58:37] [EMA] Checking AAPL...
+[2025-06-12 21:58:37] [INFO] No signal for AAPL
+[2025-06-12 21:58:37] [INFO] Checking signal for TSLA
+[2025-06-12 21:58:37] [EMA] Checking TSLA...
+[2025-06-12 21:58:37] [INFO] No signal for TSLA
+[2025-06-12 21:58:37] [INFO] Checking signal for MSFT
+[2025-06-12 21:58:37] [INFO] No signal for MSFT
+[2025-06-12 21:58:37] [INFO] Checking signal for NVDA
+[2025-06-12 21:58:37] [INFO] No signal for NVDA
+[2025-06-12 21:58:37] [INFO] Checking signal for GOOGL
+[2025-06-12 21:58:37] [INFO] No signal for GOOGL
+[2025-06-12 21:58:37] 
+[WAIT] Sleeping for 5 minutes...
+
+[2025-06-12 22:03:37] 
+=== Running Strategy Engine ===
+[2025-06-12 22:03:37] [INFO] Checking signal for AAPL
+[2025-06-12 22:03:37] [EMA] Checking AAPL...
+[2025-06-12 22:03:38] [INFO] No signal for AAPL
+[2025-06-12 22:03:38] [INFO] Checking signal for TSLA
+[2025-06-12 22:03:38] [EMA] Checking TSLA...
+[2025-06-12 22:03:38] [INFO] No signal for TSLA
+[2025-06-12 22:03:38] [INFO] Checking signal for MSFT
+[2025-06-12 22:03:38] [INFO] No signal for MSFT
+[2025-06-12 22:03:38] [INFO] Checking signal for NVDA
+[2025-06-12 22:03:38] [INFO] No signal for NVDA
+[2025-06-12 22:03:38] [INFO] Checking signal for GOOGL
+[2025-06-12 22:03:38] [INFO] No signal for GOOGL
+[2025-06-12 22:03:38] 
+[WAIT] Sleeping for 5 minutes...
+
+[2025-06-12 22:08:38] 
+=== Running Strategy Engine ===
+[2025-06-12 22:08:38] [INFO] Checking signal for AAPL
+[2025-06-12 22:08:38] [EMA] Checking AAPL...
+[2025-06-12 22:08:38] [INFO] No signal for AAPL
+[2025-06-12 22:08:38] [INFO] Checking signal for TSLA
+[2025-06-12 22:08:38] [EMA] Checking TSLA...
+[2025-06-12 22:08:38] [INFO] No signal for TSLA
+[2025-06-12 22:08:38] [INFO] Checking signal for MSFT
+[2025-06-12 22:08:38] [INFO] No signal for MSFT
+[2025-06-12 22:08:38] [INFO] Checking signal for NVDA
+[2025-06-12 22:08:38] [INFO] No signal for NVDA
+[2025-06-12 22:08:38] [INFO] Checking signal for GOOGL
+[2025-06-12 22:08:38] [INFO] No signal for GOOGL
+[2025-06-12 22:08:38] 
+[WAIT] Sleeping for 5 minutes...
+
+[2025-06-12 22:13:38] 
+=== Running Strategy Engine ===
+[2025-06-12 22:13:38] [INFO] Checking signal for AAPL
+[2025-06-12 22:13:38] [EMA] Checking AAPL...
+[2025-06-12 22:13:39] [INFO] No signal for AAPL
+[2025-06-12 22:13:39] [INFO] Checking signal for TSLA
+[2025-06-12 22:13:39] [EMA] Checking TSLA...
+[2025-06-12 22:13:39] [INFO] No signal for TSLA
+[2025-06-12 22:13:39] [INFO] Checking signal for MSFT
+[2025-06-12 22:13:39] [INFO] No signal for MSFT
+[2025-06-12 22:13:39] [INFO] Checking signal for NVDA
+[2025-06-12 22:13:39] [INFO] No signal for NVDA
+[2025-06-12 22:13:39] [INFO] Checking signal for GOOGL
+[2025-06-12 22:13:39] [INFO] No signal for GOOGL
+[2025-06-12 22:13:39] 
+[WAIT] Sleeping for 5 minutes...
+
+[2025-06-12 22:18:39] 
+=== Running Strategy Engine ===
+[2025-06-12 22:18:39] [INFO] Checking signal for AAPL
+[2025-06-12 22:18:39] [EMA] Checking AAPL...
+[2025-06-12 22:18:39] [INFO] No signal for AAPL
+[2025-06-12 22:18:39] [INFO] Checking signal for TSLA
+[2025-06-12 22:18:39] [EMA] Checking TSLA...
+[2025-06-12 22:18:39] [INFO] No signal for TSLA
+[2025-06-12 22:18:39] [INFO] Checking signal for MSFT
+[2025-06-12 22:18:39] [INFO] No signal for MSFT
+[2025-06-12 22:18:39] [INFO] Checking signal for NVDA
+[2025-06-12 22:18:39] [INFO] No signal for NVDA
+[2025-06-12 22:18:39] [INFO] Checking signal for GOOGL
+[2025-06-12 22:18:39] [INFO] No signal for GOOGL
+[2025-06-12 22:18:39] 
+[WAIT] Sleeping for 5 minutes...
+
+[2025-06-12 22:23:39] 
+=== Running Strategy Engine ===
+[2025-06-12 22:23:39] [INFO] Checking signal for AAPL
+[2025-06-12 22:23:39] [EMA] Checking AAPL...
+[2025-06-12 22:23:39] [INFO] No signal for AAPL
+[2025-06-12 22:23:39] [INFO] Checking signal for TSLA
+[2025-06-12 22:23:39] [EMA] Checking TSLA...
+[2025-06-12 22:23:40] [INFO] No signal for TSLA
+[2025-06-12 22:23:40] [INFO] Checking signal for MSFT
+[2025-06-12 22:23:40] [INFO] No signal for MSFT
+[2025-06-12 22:23:40] [INFO] Checking signal for NVDA
+[2025-06-12 22:23:40] [INFO] No signal for NVDA
+[2025-06-12 22:23:40] [INFO] Checking signal for GOOGL
+[2025-06-12 22:23:40] [INFO] No signal for GOOGL
+[2025-06-12 22:23:40] 
+[WAIT] Sleeping for 5 minutes...
+
+[2025-06-12 22:28:40] 
+=== Running Strategy Engine ===
+[2025-06-12 22:28:40] [INFO] Checking signal for AAPL
+[2025-06-12 22:28:40] [EMA] Checking AAPL...
+[2025-06-12 22:28:40] [INFO] No signal for AAPL
+[2025-06-12 22:28:40] [INFO] Checking signal for TSLA
+[2025-06-12 22:28:40] [EMA] Checking TSLA...
+[2025-06-12 22:28:40] [INFO] No signal for TSLA
+[2025-06-12 22:28:40] [INFO] Checking signal for MSFT
+[2025-06-12 22:28:40] [INFO] No signal for MSFT
+[2025-06-12 22:28:40] [INFO] Checking signal for NVDA
+[2025-06-12 22:28:40] [INFO] No signal for NVDA
+[2025-06-12 22:28:40] [INFO] Checking signal for GOOGL
+[2025-06-12 22:28:40] [INFO] No signal for GOOGL
+[2025-06-12 22:28:40] 
+[WAIT] Sleeping for 5 minutes...
+
+[2025-06-12 22:33:40] 
+=== Running Strategy Engine ===
+[2025-06-12 22:33:40] [INFO] Checking signal for AAPL
+[2025-06-12 22:33:40] [EMA] Checking AAPL...
+[2025-06-12 22:33:40] [INFO] No signal for AAPL
+[2025-06-12 22:33:40] [INFO] Checking signal for TSLA
+[2025-06-12 22:33:40] [EMA] Checking TSLA...
+[2025-06-12 22:33:40] [INFO] No signal for TSLA
+[2025-06-12 22:33:40] [INFO] Checking signal for MSFT
+[2025-06-12 22:33:40] [INFO] No signal for MSFT
+[2025-06-12 22:33:40] [INFO] Checking signal for NVDA
+[2025-06-12 22:33:40] [INFO] No signal for NVDA
+[2025-06-12 22:33:40] [INFO] Checking signal for GOOGL
+[2025-06-12 22:33:40] [INFO] No signal for GOOGL
+[2025-06-12 22:33:40] 
+[WAIT] Sleeping for 5 minutes...
+
+[2025-06-12 22:38:40] 
+=== Running Strategy Engine ===
+[2025-06-12 22:38:40] [INFO] Checking signal for AAPL
+[2025-06-12 22:38:40] [EMA] Checking AAPL...
+[2025-06-12 22:38:41] [INFO] No signal for AAPL
+[2025-06-12 22:38:41] [INFO] Checking signal for TSLA
+[2025-06-12 22:38:41] [EMA] Checking TSLA...
+[2025-06-12 22:38:41] [INFO] No signal for TSLA
+[2025-06-12 22:38:41] [INFO] Checking signal for MSFT
+[2025-06-12 22:38:41] [INFO] No signal for MSFT
+[2025-06-12 22:38:41] [INFO] Checking signal for NVDA
+[2025-06-12 22:38:41] [INFO] No signal for NVDA
+[2025-06-12 22:38:41] [INFO] Checking signal for GOOGL
+[2025-06-12 22:38:41] [INFO] No signal for GOOGL
+[2025-06-12 22:38:41] 
+[WAIT] Sleeping for 5 minutes...
+
+[2025-06-12 22:43:41] 
+=== Running Strategy Engine ===
+[2025-06-12 22:43:41] [INFO] Checking signal for AAPL
+[2025-06-12 22:43:41] [EMA] Checking AAPL...
+[2025-06-12 22:43:41] [INFO] No signal for AAPL
+[2025-06-12 22:43:41] [INFO] Checking signal for TSLA
+[2025-06-12 22:43:41] [EMA] Checking TSLA...
+[2025-06-12 22:43:41] [INFO] No signal for TSLA
+[2025-06-12 22:43:41] [INFO] Checking signal for MSFT
+[2025-06-12 22:43:41] [INFO] No signal for MSFT
+[2025-06-12 22:43:41] [INFO] Checking signal for NVDA
+[2025-06-12 22:43:41] [INFO] No signal for NVDA
+[2025-06-12 22:43:41] [INFO] Checking signal for GOOGL
+[2025-06-12 22:43:41] [INFO] No signal for GOOGL
+[2025-06-12 22:43:41] 
+[WAIT] Sleeping for 5 minutes...
+
+[2025-06-12 22:48:41] 
+=== Running Strategy Engine ===
+[2025-06-12 22:48:41] [INFO] Checking signal for AAPL
+[2025-06-12 22:48:41] [EMA] Checking AAPL...
