@@ -1,0 +1,7 @@
+symbol,strategy,direction,entry,final,win,pnl,confidence
+AAPL.CSV,VWAP Slingshot,long,200.94000244140625,200.94000244140625,False,-0.0,0.7
+MSFT,VWAP Slingshot,long,477.7967,477.7967,False,-0.0,0.7
+MSFT,Pullback Resumption,long,477.7967,477.7967,False,-0.0,0.72
+TSLA,VWAP Slingshot,long,322.1700134277344,322.1700134277344,False,-0.0,0.7
+TSLA,Late-Day Reversal,short,322.1700134277344,322.1700134277344,False,-0.0,0.65
+TSLA.CSV,VWAP Slingshot,long,322.1700134277344,322.1700134277344,False,-0.0,0.7

@@ -1,0 +1,2 @@
+timestamp,strategy,symbol,error_message
+2025-06-23T23:29:54.454591,trend_continuation,AAPL,KeyError: 'volume'

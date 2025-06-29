@@ -1,0 +1,23 @@
+{
+  "ema_crossover": {
+    "strategy": "ema_crossover",
+    "enabled": true,
+    "capital_pct": 20,
+    "risk_pct": 1.0,
+    "last_updated": "2025-06-26T17:45:29.056797"
+  },
+  "vwap_reversion": {
+    "strategy": "vwap_reversion",
+    "enabled": true,
+    "capital_pct": 25,
+    "risk_pct": 1.5,
+    "last_updated": "2025-06-26T17:45:29.056811"
+  },
+  "breakout": {
+    "strategy": "breakout",
+    "enabled": false,
+    "capital_pct": 0,
+    "risk_pct": 0.5,
+    "last_updated": "2025-06-26T17:45:29.056815"
+  }
+}

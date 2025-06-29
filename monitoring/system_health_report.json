@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-06-27T21:54:20.778267",
+  "model_freshness": "\u26a0\ufe0f No model history found. Retraining may be needed.",
+  "rejection_summary": {
+    "time_volume_filter": 1,
+    "timeframe_mismatch": 1
+  },
+  "rejection_rate": 0.6667
+}

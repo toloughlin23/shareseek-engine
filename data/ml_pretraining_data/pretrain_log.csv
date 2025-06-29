@@ -1,0 +1,4 @@
+timestamp,symbol,strategy,price,volume,ema9,ema21,vwap,atr,confidence,label
+2025-07-01 09:30,AAPL,ORB,190.25,1500000,189.1,188.5,189.8,2.5,0.76,1
+2025-07-01 09:45,MSFT,VWAP Reclaim,336.70,2100000,335.4,334.9,335.9,1.8,0.82,1
+2025-07-01 10:15,NVDA,Trend,128.45,950000,128.2,127.5,127.9,1.7,0.67,0

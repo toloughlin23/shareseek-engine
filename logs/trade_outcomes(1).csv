@@ -1,0 +1,4 @@
+symbol,strategy,entry_time,exit_time,entry_price,exit_price,pnl,hold_time_minutes,reward
+AAPL,breakout,2025-06-27T10:00:00,2025-06-27T11:00:00,150.0,152.0,2.0,60.0,0.0133
+MSFT,VWAP curl,2025-06-27T10:30:00,2025-06-27T12:00:00,300.0,297.5,-2.5,90.0,-0.0083
+TSLA,pullback,2025-06-27T09:45:00,2025-06-27T10:45:00,700.0,690.0,-10.0,60.0,-0.0143
